@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/.gitignore
+.idea/matplotcpp.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+build/
+cmake-build-debug/
+main
